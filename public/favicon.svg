@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="vgf-bg" x1="4" y1="4" x2="60" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="48%" stop-color="#1D4ED8" />
+      <stop offset="100%" stop-color="#0B1B3B" />
+    </linearGradient>
+    <linearGradient id="vgf-mark" x1="16" y1="14" x2="48" y2="50" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="65%" stop-color="#E0F2FE" />
+      <stop offset="100%" stop-color="#BAE6FD" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#vgf-bg)" stroke="#7DD3FC" stroke-opacity="0.7" stroke-width="2" />
+  <circle cx="32" cy="32" r="21.5" stroke="url(#vgf-mark)" stroke-width="2.2" stroke-opacity="0.92" />
+  <ellipse cx="32" cy="32" rx="21.5" ry="8.8" transform="rotate(-22 32 32)" stroke="#FFFFFF" stroke-width="1.8" stroke-opacity="0.78" />
+  <path d="M20.5 20.5L32 45L43.5 20.5H37.2L32 32.8L26.8 20.5H20.5Z" fill="url(#vgf-mark)" />
+</svg>
